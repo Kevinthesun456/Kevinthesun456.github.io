@@ -1,0 +1,20 @@
+<html>
+  <head>
+    <link rel="stylesheet" type="text.css" href="./index.css">
+  </head>
+  <body>
+    <header>
+      <a href="#" class="logo">ISP</a>
+      <ul>
+	<li><a href="https://codermerlin.com/users/kevin-sun/Digital%20Portfolio/index.html#">Home</a>
+	<li><a href="https://codermerlin.com/users/kevin-sun/Digital%20Portfolio/about.html#">About</a>
+	<li><a href="https://codermerlin.com/users/kevin-sun/Digital%20Portfolio/classes.html#">Course</a>
+	<li><a href="https://codermerlin.com/users/kevin-sun/Digital%20Portfolio/isp.html#">ISP</a>
+	<li><a href="https://codermerlin.com/users/kevin-sun/Digital%20Portfolio/port.html#">Portfolio</a>
+      </ul>
+    </header>
+    <div>
+      <p>For last years ISP My team and I created a "wordle" like game but instead of the concept of guessing a word, the player had to guess an equation to match a number.For example if the number has 5 and there was 3 spaces, the user would need to create an equation without the "=" to have it equal 5 so something like 2+3 might work. The game was also similar to wordle in the sense that if you got the number right or operator right but not in the correct spot it would highlight yellow, if it was in the right spot it would highlight green and if not in the right spot and wrong number/operator it would highlige red.</p>
+    </div>
+  </body>
+  </html>
