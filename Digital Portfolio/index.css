@@ -8,7 +8,7 @@
 
 body
 {
-    height:auto;
+    height:100vh;
     width:100vw;
     overflow-x:hidden;
 
@@ -69,11 +69,68 @@ header ul li a.active
 
 div{
     color: white;
-    width: 600px;
+    width: 1000px;
     height: 600px;
     text-align: center;
-    padding: 300px 600px;
+    padding: 300px 800px;
     postion:absolute;
-    font-size: 40px;
+    font-size: 35px;
 	
 }
+
+.div2{
+    color: black;
+    width:2000px;
+    height:1000px;
+    margin-left: 20px;
+    display: flex;
+    position:relative;
+    top: 100px;
+    text-align:center;
+    font-size:35px;
+	
+}
+
+
+
+
+.image{
+    width: 100px;
+}
+
+.image img{
+    position: relative;
+    top:-700px;
+    width:1000px;
+    height:1000x;
+    border: 5px solid #fff;
+    
+}
+
+.flowchart img{
+    width:1300px;
+    height:1000px;
+    border:5px solid #fff;
+}
+
+
+.div3{
+    color: white;
+    width:1000px;   
+    display: flex;
+    position:relative;
+    top:-1400px;
+    text-align:center;
+    font-size:35px;
+}
+
+.div4{
+    color:white;
+    widht:1000px;
+    display:flex;
+    position:relative;
+    top:-2200px;
+    text-align:center;
+    font-size:35px;
+}
+
