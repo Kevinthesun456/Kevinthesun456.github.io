@@ -8,7 +8,7 @@
 
 body
 {
-    height:100vh;
+    height:400vh;
     width:100vw;
     overflow-x:hidden;
 
@@ -69,40 +69,147 @@ header ul li a.active
 
 div{
     color: white;
-    width: 1000px;
-    height: 600px;
+    width: 50vw;
+    height: 50vh;
     text-align: center;
-    padding: 300px 800px;
+    margin-top: 10px;
+    margin-left: 350px;
+    text-align:justify;
     postion:absolute;
+    left: -80px;
     font-size: 35px;
-	
+    align-items: center;
+  	
+}
+
+.thing{
+    color: white;
+    width: 50vw;
+    height: 50vh;
+    text-align: center;
+    margin-top: 200px;
+    margin-left: 300px;
+    text-align:justify;
+    postion:absolute;
+    left: -80px;
+    font-size: 35px;
+    align-items: center;
+  	
+}
+.this{
+    color: black;
+    width: 50vw;
+    height: 50vh;
+    text-align: center;
+    margin-top: 1100px;
+    margin-left: 300px;
+    text-align:justify;
+    postion:absolute;
+    left: -80px;
+    font-size: 20px;
+    align-items: center;
+  	
+}
+
+.text{
+        color: white;
+    width: 50vw;
+    height: 50vh;
+    text-align: center;
+    margin-top: -100px;
+    margin-left: 300px;
+    text-align:justify;
+    postion:absolute;
+    left: -80px;
+    font-size: 20px;
+    align-items: center;
+
+}
+.sources{
+        color: black;
+    width: 50vw;
+    height: 50vh;
+    text-align: center;
+    margin-top: 200px;
+    margin-left: 50px;
+    text-align:justify;
+    postion:absolute;
+    left: -80px;
+    font-size: 20px;
+    align-items: center;
+}
+
+
+
+.div7{
+        color: white;
+    width: 50vw;
+    height: 50vh;
+    text-align: center;
+    margin-top: 150px;
+    margin-left: 300px;
+    text-align:justify;
+    postion:absolute;
+    left: -80px;
+    font-size: 35px;
+    align-items: center;
 }
 
 .div2{
-    color: black;
-    width:2000px;
-    height:1000px;
-    margin-left: 20px;
-    display: flex;
-    position:relative;
-    top: 100px;
-    text-align:center;
-    font-size:35px;
+        color: white;
+    width: 70vw;
+    height: 60vh;
+    text-align: center;
+    margin-top: -100px;
+    margin-left: 200px;
+    text-align:justify;
+    postion:absolute;
+    left: -80px;
+    font-size: 20px;
+    align-items: center;
 	
 }
 
+.div6{
+         color: white;
+    width: 70vw;
+    height: 50vh;
+    text-align: center;
+    margin-top: 200px;
+    margin-left: 200px;
+    text-align:justify;
+    postion:absolute;
+    left: -80px;
+    font-size: 35px;
+    align-items: center;
+}
+    
 
-
+.div5{
+        color: white;
+    width: 70vw;
+    height: 50vh;
+    text-align: center;
+    margin-top: 200px;
+    margin-left: 200px;
+    text-align:justify;
+    postion:absolute;
+    left: -80px;
+    font-size: 35px;
+    align-items: center;
+    
+}
 
 .image{
     width: 100px;
 }
 
 .image img{
-    position: relative;
-    top:-700px;
-    width:1000px;
-    height:1000x;
+    position: absolute;
+    width:70vw;
+    height:50vh;
+    margin-left: -150px;
+    margin-top: 150px;
     border: 5px solid #fff;
     
 }
@@ -115,22 +222,31 @@ div{
 
 
 .div3{
-    color: white;
-    width:1000px;   
-    display: flex;
-    position:relative;
-    top:-1400px;
-    text-align:center;
-    font-size:35px;
+ color: white;
+    width: 70vw;
+    height: 50vh;
+    text-align: center;
+    margin-top: 250px;
+    margin-left: 200px;
+    text-align:justify;
+    postion:absolute;
+    left: -80px;
+    font-size: 35px;
+    align-items: center;
 }
 
 .div4{
-    color:white;
-    widht:1000px;
-    display:flex;
-    position:relative;
-    top:-2200px;
-    text-align:center;
-    font-size:35px;
+  color: white;
+    width: 70vw;
+    height: 50vh;
+    text-align: center;
+    margin-top: 130px;
+    margin-left: 200px;
+    text-align:justify;
+    postion:absolute;
+    left: -80px;
+    font-size: 35px;
+    align-items: center;
+
 }
 
