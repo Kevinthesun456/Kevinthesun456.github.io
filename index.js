@@ -1,0 +1,19 @@
+function home {
+    location.replace('https://www.codermerlin.com/users/kevin-sun/Digital%20Portfolio/index.html#')
+
+}
+
+function about {
+    location.replace('https://www.codermerlin.com/users/kevin-sun/Digital%20Portfolio/about.html#')
+
+}
+function course {
+    location.replace('https://www.codermerlin.com/users/kevin-sun/Digital%20Portfolio/classes.html#')
+
+}
+function isp {
+    location.replace('https://www.codermerlin.com/users/kevin-sun/Digital%20Portfolio/isp.html#')
+
+}
+
+    

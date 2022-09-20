@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>AI</title>
+    <meta charset="UTF=8">
+    <link rel="stylesheet" type="text/css" href="../../index.css">
+    </body>
+  </head>
+
+<header>
+  <a href="#" class="logo">Course</a>
+  <ul>
+    <li><a href="../../index.html#">Home</a><li>
+    <li><a href="../../Essays.html#">Back</a><li>
+  </ul>
+</header>
+
+<div class="thing">
+  <p>OptimalSort</p>
+</div>
+<div class="text1">
+  <p>Kevin Sun</p>
+  <p>Qasem Abdelijaber</p>
+  <p>Andrew</p>
+  <p>Computer Science 3</p>
+</div>
+<div class="link">
+<a href="https://github.com/QCreates/Sorter.git">Github Link</a>
+</div>
+<image src="", alt="Picture for flowchart" class="picture1"/>
+</body>
+</html>
