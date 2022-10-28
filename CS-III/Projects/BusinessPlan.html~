@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>AI</title>
-    <meta charset="UTF=8">
+    <title>Buiness Plan</title>
+    <meta charset="UTF-8">
     <link rel="stylesheet" type="text/css" href="../../index.css">
-    </body>
+   
   </head>
-
+<body>
 <header>
   <a href="#" class="logo">Course</a>
   <ul>
@@ -16,15 +16,15 @@
 </header>
 
 <div class="thing">
-  <p>OptimalSort</p>
+  <p>Business Plan</p>
 </div>
-<div class="text1">
-  <p>Kevin Sun</p>
-  <p>Qasem Abdelijaber</p>
-  <p>Andrew</p>
-  <p>Computer Science 3</p>
-</div>
+<div class="text">
+  <p><b>Identity</b></p>
+  <br>
+  <p> Out Mission is to be able to create a <p>
+    <br>
+    <p><b>Problem</b></p>
 
-<image src="Sort.io.drawio_1.png", alt="Picture for flowchart" class="picture1"/>
+
 </body>
 </html>

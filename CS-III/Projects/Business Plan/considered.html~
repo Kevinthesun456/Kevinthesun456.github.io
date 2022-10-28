@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Buiness Plan</title>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" type="text/css" href="../../../index.css">
+   
+  </head>
+<body>
+<header>
+  <a href="#" class="logo">Course</a>
+  <ul>
+    <li><a href="../../../index.html#">Home</a><li>
+    <li><a href="../../../Projects.html#">Back</a><li>
+  </ul>
+</header>
+
+<div class="thing">
+  <p>Business Proposals</p>
+</div>
+<div class="text">
+  <a href="https://www.codermerlin.com/users/aryan-kulkarni/Digital%20Portfolio/CS-III/Projects/Business%20Plan/index.html">Eagle Card</a>
+  <br>
+  <p> I had considered this project due to the intresting motive behind it. I can see how typing our full website for our digital portfolio is really hard and sometimes is just not as effective. I think that using a card to pull up a digital portfolio is really unique and will really be eaiser for people to pull up other peoples digital portfolios. However I didnt join this project because I felt that this system might have already been implemented somewhere else and I wanted to do something new that I havent done before. <p>
+    <br>
+    <p><b>Problem</b></p>
+    <br>
+  <p>The main problem behind this project is that first combining an art style with a picture is extremely hard. To do this first part you have totrain an AI to produce mass quantaties of an art style. The art style you let them train has to be really specific in that the art styles first must all be the same size, the same art style, and each pictures has to be relativiely similar. After finding a large set of these pictures you have to constantly train the AI to learn the art style. Blending the Art style with the picture is even harder and this may require a lot of GPUs and a really good computer to run. </p>
+  <br>
+  <p><b>Solution</b></p>
+  <br>
+  <p> Our solution to overcome this problem is to use already produced images of a certain artstyle to train the AI. As for the GPUs that may be needed we will probably use a really good computer from somewhere else to sovle this challenge. </p>
+  <br>
+  <p><b>Target Market</b></p>
+  <br>
+  <p>The audience for this product isnt really a speicified target and its mainly just for fun. But this maybe used for more advanced things to build upon on so the audience most likely would be for people with higher knowledege in AI and facial AI things </p>
+  <br>
+  <p><b>Competition</b></p>
+  <br>
+  <p> The Main competition for this product is that there is already a website that has done this. It is called Toonify. Toonify essentialy takes a photo you put on there and takes a style you choose and merges them. However the complex art styles cost money and ours is techinically free if it works so it should be able to be more appealing. </p>
+  <br>
+  <p><b>Revenue</b></p>
+  <br>
+  <p>For revenue we will most likely put ads on the website with our product and maybe some funraising events for it. </p>
+  <br>
+  <p><b>Expenses</b></p>
+  <br>
+  <p>For Expenses the main part will be finding a computer suitable for running this AI machine learning product. It will probably take a long time to run and will be even slower with a bad computer. We might have to be a really expensive computer to be able to run this. </p>
+  <br>
+  <p><b>Team and Key roles</b></p>
+  <br>
+  <p>As for teams and their roles it will be mainly where one gets the images, one designs and runs the program, and one testing the product. Currently there are no other members but these will be the roles. </p>
+  <br>
+  <p><b>Milestones</b></p>
+  <br>
+  <p>As the project is finished we may be looking forward to making this product to help with facial recognition and other things. </p>
+  <br>
+  <p><b>Gantt Chart link</b></p>
+  <br>
+  <a href="https://sharing.clickup.com/20107425/g/h/k5m51-107/96034f586f4e7b5">Gantt Chart</a>
+  </div>
+
+</body>
+</html>

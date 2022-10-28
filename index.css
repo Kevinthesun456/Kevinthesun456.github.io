@@ -8,11 +8,11 @@
 
 body
 {
-    height:400vh;
+    height:450vh;
     width:100vw;
     overflow-x:hidden;
 
-    background: linear-gradient(#70abaf,#fbf0d9);
+    background: linear-gradient(#70abaf,#70abaf);
 }
 header
 {
@@ -68,17 +68,16 @@ header ul li a.active
 }
 
 div{
-    color: white;
+       margin-top: 150px;
+    text-align:justify;
+        color: white;
     width: 50vw;
     height: 50vh;
-    text-align: center;
-    margin-top: 10px;
-    margin-left: 350px;
-    text-align:justify;
     postion:absolute;
-    left: -80px;
-    font-size: 35px;
+    margin-left: 25vw;
+    font-size: 20px;
     align-items: center;
+
   	
 }
 
@@ -112,29 +111,26 @@ div{
 }
 
 .text{
-        color: white;
+    color: white;
     width: 50vw;
     height: 50vh;
-    text-align: center;
-    margin-top: -100px;
-    margin-left: 300px;
-    text-align:justify;
+//    text-align: center;
+    // margin-top: 0p;
     postion:absolute;
-    left: -80px;
+    margin-left: 25vw;
     font-size: 20px;
     align-items: center;
 
 }
 .sources{
-        color: black;
+       
+ margin-top: 850px;
+    text-align:justify;
+        color: white;
     width: 50vw;
     height: 50vh;
-    text-align: center;
-    margin-top: 200px;
-    margin-left: 50px;
-    text-align:justify;
     postion:absolute;
-    left: -80px;
+    margin-left: 25vw;
     font-size: 20px;
     align-items: center;
 }
@@ -142,17 +138,17 @@ div{
 
 
 .div7{
+    
+    margin-top: 150px;
+    text-align:justify;
         color: white;
     width: 50vw;
     height: 50vh;
-    text-align: center;
-    margin-top: 150px;
-    margin-left: 300px;
-    text-align:justify;
     postion:absolute;
-    left: -80px;
-    font-size: 35px;
+    margin-left: 25vw;
+    font-size: 20px;
     align-items: center;
+
 }
 
 .div2{
@@ -206,19 +202,28 @@ div{
 
 .image img{
     position: absolute;
-    width:70vw;
+    width:50vw;
     height:50vh;
-    margin-left: -150px;
     margin-top: 150px;
     border: 5px solid #fff;
     
 }
 
 .flowchart img{
-    width:1300px;
-    height:1000px;
+    width:50vw;
+    height:50vh;
+    margin-top: 800px;
     border:5px solid #fff;
 }
+.else img{
+    width:40vw;
+    height:70vh;
+    margin-top: -100px;
+    border:5px solid #fff;
+}
+
+
+
 
 
 .div3{
