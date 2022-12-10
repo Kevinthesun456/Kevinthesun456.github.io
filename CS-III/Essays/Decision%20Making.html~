@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Decision Bias</title>
+    <meta charset="UTF=8">
+    <link rel="stylesheet" type="text/css" href="../../index.css">
+    </body>
+  </head>
+
+<header>
+  <a href="#" class="logo">Course</a>
+  <ul>
+    <li><a href="../../index.html#">Home</a><li>
+    <li><a href="../../Essays.html#">Back</a><li>
+  </ul>
+</header>
+
+<div class="thing">
+  <p>Decision Bias</p>
+</div>
+<div class="text">
+  <p>Kevin Sun</p>
+  <p>Allen Steam Center</p>
+  <p>Computer Science 3</p>
+  <p> Professor Ben-yaakov</p>
+</div>
+
+<div class="text">
+  
+  <p> We humans make thousands upon thousands of decisions every day. From the little things as to thinking what to make for breakfast to big things such as deciding important life decisions it affects our whole life. However, to save time and energy, our brains don’t give each decision equal attention and instead, we take mental shortcuts.To brain scientists, they refer this as “biases.” They’re neither good nor bad as they can be both.They help us in certain cases and hinder us in others.(Alyssa 1) For instance, an expedience bias will compel us to make decisions quickly without regard. If we’re in a burning building that was covered in smoke that may be lifesaving, but if we’re conducting an in depth review on something, it might be disadvantageous. </p>
+
+  <p>
+    The second Bias is Similarity biases and are mostly in decisions regarding people: who to hire, who to promote, and who to assign to projects.It occurs because we humans are highly motivated to see themselves and those who are similar in a favorable light. We instinctively create “in-groups” and “out-groups” — boundaries between who we consider close to us and who lives on the margins. Meaning we have certain groups in our mind that we know to interact act with and others to ignore.(Alyssa 2) We generally have a favorable view of our in-group but a skeptical or negative view of the out-group. To combat this our team will actively find people that don't usually fit in with us and regard everyone as equals and interact normally with one another
+    </p>
+
+  <p> The third Bias is Expedience biases and usually come up in reviewing employees and rely solely on one data point or recommendation. We assume our view of a given problem or situation constitutes the whole truth and Experience biases occur when we fail to remember that fact. We may think that we are the best in our own world but others may see us in a different light (Alyssa 3). To combat this my team will develop a step-by-step process/approach that makes it easy to gather more information and better recruit members to help us rather than just one point.
+  </p>
+  <p> The fourth bias is Distance biases which is the bias reflects our instinct to prioritize what’s nearby, whether in physical space, time, or other domains. This can be bad if my group were to be in meetings online rather than in person as online will lose their focus and wonder their mind (Alyssa 4). To combat this we will meet up regularly to work on this project.</p>
+  
+ <p> The fifth bias is Safety bias which refers to the all-too-human tendency to avoid loss. This Bias will slow down decision-making and hold back healthy forms of risk-taking (Alyssa 5). Although taking risks and receiving loss may be discouraging but to improve as a team and the project we must take risks to improve our project.</p>
+
+  </div>
+
+<div class="this">
+  <p>Sources</p>
+  <p>Abkowitz, A. (2022, August 4). The 5 biggest biases that affect decision-making. NeuroLeadership Institute. Retrieved December 9, 2022, from https://neuroleadership.com/your-brain-at-work/seeds-model-biases-affect-decision-making/ </p>
+</div>
+</body>
+</html>
